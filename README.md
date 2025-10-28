@@ -28,6 +28,8 @@ https://arxiv.org/pdf/2407.01082.pdf
 
 https://arxiv.org/pdf/2410.04197.pdf
 
+https://arxiv.org/pdf/2504.15784.pdf
+
 [Note] For LLMs, we argue that sampling and search methods are mainly optimizing toward diversity, which is a different concept from creativity. Please refer to our awesome LLM diversity paperlist: https://github.com/YichenZW/awesome-llm-diversity.
 
 ### Reinforcement Learning (RL) and Exploration-Exploitation Balance
@@ -40,6 +42,8 @@ https://arxiv.org/pdf/2503.17126v1
 ### Multi-Agent
 
 https://arxiv.org/pdf/2403.12928.pdf
+
+https://arxiv.org/pdf/2405.06373.pdf
 
 ### Hybrid Approaches and Others
 
@@ -60,17 +64,16 @@ http://dl.acm.org/citation.cfm?id=3642731
 
 https://arxiv.org/pdf/2412.03151.pdf
 
-https://arxiv.org/pdf/2405.06373.pdf
+
 
 https://arxiv.org/pdf/2509.09702.pdf
 
 https://arxiv.org/pdf/2505.08744.pdf
 
-https://arxiv.org/pdf/2504.15784.pdf
+
 
 https://arxiv.org/pdf/2510.17921.pdf
 
-http://dl.acm.org/citation.cfm?id=3734410
 
 https://arxiv.org/pdf/2510.05135.pdf
 
