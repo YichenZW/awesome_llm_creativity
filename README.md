@@ -22,6 +22,18 @@ If you find this collection useful, please consider starring it, following for u
 
 This repository is built and maintained using the [automatic maintainer](https://github.com/YichenZW/awesome-paperlist-maintainer). Papers are added after manual review and are sorted newest first within each category.
 
+## Table of Contents
+
+- [Taxonomy of Creativity Evaluation](#taxonomy-of-creativity-evaluation)
+- [Papers on Optimization](#optimization)
+  - [Sampling and Search](#sampling-and-search)
+  - [Reinforcement Learning](#reinforcement-learning)
+  - [Multi-Agent](#multi-agent)
+  - [Hybrid Approaches and Others](#hybrid-approaches-and-others)
+- [Papers on Evaluation, Datasets, and Benchmarks](#evaluation-datasets-and-benchmarks)
+  - [Surveys and Comparative Analyses](#surveys-and-comparative-analyses)
+- [Papers on Theory of Computational Creativity](#theory-of-computational-creativity)
+
 ## Taxonomy of Creativity Evaluation
 
 The taxonomy organizes creativity evaluation along **Task** and **Metric** dimensions. Click the embedded preview to open the full-resolution continuous PDF.
