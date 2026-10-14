@@ -40,9 +40,7 @@ The taxonomy organizes creativity evaluation along **Task** and **Metric** dimen
 
 [![Taxonomy of Creativity Evaluation](assets/taxonomy/creativity-evaluation-taxonomy-preview.png)](assets/taxonomy/creativity-evaluation-taxonomy.pdf)
 
-<p align="center">
-  <a href="assets/taxonomy/creativity-evaluation-taxonomy.pdf"><strong>Open or download the full taxonomy PDF</strong></a>
-</p>
+[**See Taxonomy and citations in Appendix A of our paper.**](https://arxiv.org/abs/2610.12998)
 
 ## Optimization
 
